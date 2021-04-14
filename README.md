@@ -1,12 +1,11 @@
 ### Hey There!
 
-I am a Computer Science student at the Universidade Federal do Rio Grande do Sul. My interests hop around the fields of Operating Systems, Algorithm Design, Computer Graphics and Image Processing. Currently, I am working as a Back End Development intern at DeepX using Elixir and Rust.
+I am a Computer Science student at the Universidade Federal do Rio Grande do Sul. My interests hop around the fields of Operating Systems, Algorithm Design, Computer Graphics and Image Processing. Currently, I am working as a Back End Development intern at DeepX using Elixir and Rust. I'm learning a bit of Lua on the side.
 
 ### Current Setup:
 
-- XMonad
-- NixOS
-- SDDM
+- AwesomeWM
+- Void Linux
 
 ### Fav langs ⭐
 

@@ -4,7 +4,7 @@ I am a Computer Science student at the Universidade Federal do Rio Grande do Sul
 
 ### Current Setup:
 
-- Gnome 40
+- AwesomeWM
 - Artix Linux
 
 ### Fav langs ⭐

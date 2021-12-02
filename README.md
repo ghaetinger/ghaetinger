@@ -17,7 +17,7 @@ I am a Computer Science student at the Universidade Federal do Rio Grande do Sul
 <img  style="width: 45%;" src="https://github-readme-streak-stats.herokuapp.com?user=ghaetinger&theme=jollye_border=true"/>
 
 <!--- advent_readme_stars table --->
-## 2021 Results
+## Advent of Code -  2021 Results
 
 | Day | Part 1 | Part 2 |
 | :---: | :---: | :---: |

@@ -4,8 +4,8 @@ I am a Computer Science student at the Universidade Federal do Rio Grande do Sul
 
 ### Current Setup:
 
-- AwesomeWM
-- Artix Linux
+- XMonad
+- Arch Linux
 
 ### Fav langs ⭐
 

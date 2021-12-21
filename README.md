@@ -38,4 +38,5 @@ I am a Computer Science student at the Universidade Federal do Rio Grande do Sul
 | [Day 15](https://adventofcode.com/2021/day/15) | ⭐ | ⭐ |
 | [Day 16](https://adventofcode.com/2021/day/16) | ⭐ | ⭐ |
 | [Day 17](https://adventofcode.com/2021/day/17) | ⭐ | ⭐ |
+| [Day 18](https://adventofcode.com/2021/day/18) | ⭐ | ⭐ |
 <!--- advent_readme_stars table --->
